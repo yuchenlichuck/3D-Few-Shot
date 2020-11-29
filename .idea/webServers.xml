@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6885be98-b359-4e09-9983-65828c589773" name="11712116_cs308@10.20.1.155:22" url="http:///">
+        <fileTransfer host="172.18.6.218" port="22" rootFolder="/data2/liyc/jupyter" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="0ceedf35-8d86-4cde-ba48-23ec67b5fb9c" name="Copy of project-level server '11712116_cs308@10.20.1.155:22'" url="http:///">
+        <fileTransfer host="172.18.6.218" port="22" rootFolder="/data2/liyc/jupyter" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="7da1339b-3e97-47e4-b7d4-98bfa0cb6e76" name="10.20.93.45" url="http:///">
+        <fileTransfer host="10.20.93.45" port="22" rootFolder="/home/dell/kaust/Ycli/jupyter" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="0732aeb4-a911-468e-8955-d20c30c52901" name="jinlab" url="http://10.20.45.222">
+        <fileTransfer host="10.20.45.222" port="22" rootFolder="/raid/jinlab/wsc/liycnb" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
